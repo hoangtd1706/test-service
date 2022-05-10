@@ -1,0 +1,14 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "server": "192.168.0.172",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "name": "IdentityDb",
+      "database": "IdentityDB",
+      "username": "postgres",
+      "password": "Ecoba@2020"
+    }
+  ]
+}
